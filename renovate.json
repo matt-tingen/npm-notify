@@ -1,0 +1,21 @@
+{
+  "$schema": "https://docs.renovatebot.com/renovate-schema.json",
+
+  "schedule": "* 12-13 * * *",
+  "timezone": "America/New_York",
+  "recreateWhen": "always",
+  "prConcurrentLimit": 0,
+  "prHourlyLimit": 0,
+
+  "rangeStrategy": "replace",
+  "separateMultipleMajor": true,
+  "separateMultipleMinor": false,
+  "separateMajorMinor": false,
+  "separateMinorPatch": false,
+
+  "packageRules": [
+    { "matchUpdateTypes": "major", "labels": ["major"] },
+    { "matchUpdateTypes": "minor", "labels": ["minor"] },
+    { "matchUpdateTypes": "patch", "labels": ["patch"] }
+  ]
+}
