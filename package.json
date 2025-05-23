@@ -8,12 +8,12 @@
     "@tanstack/react-form": "1.11",
     "type-fest": "4.39",
     "valibot": "1.1",
+    "zod": "3.25",
     "prettier": "3",
     "eslint": "9",
     "@chakra-ui/react": "3",
     "@emotion/react": "11",
     "@tanstack/react-query": "5",
-    "vite": "6",
-    "zod": "3"
+    "vite": "6"
   }
 }
