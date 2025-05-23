@@ -7,6 +7,7 @@
     "react": "19.1",
     "@tanstack/react-form": "1.11",
     "type-fest": "4.39",
+    "pnpm": "10.11",
     "valibot": "1.1",
     "zod": "3.25",
     "prettier": "3",
