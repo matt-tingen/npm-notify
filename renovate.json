@@ -16,6 +16,11 @@
   "packageRules": [
     { "matchUpdateTypes": "major", "labels": ["major"] },
     { "matchUpdateTypes": "minor", "labels": ["minor"] },
-    { "matchUpdateTypes": "patch", "labels": ["patch"] }
+    { "matchUpdateTypes": "patch", "labels": ["patch"] },
+
+    {
+      "groupName": "trpc",
+      "matchPackagePrefixes": ["@trpc/"]
+    }
   ]
 }
