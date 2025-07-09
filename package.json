@@ -9,7 +9,7 @@
     "type-fest": "4.41",
     "@trpc/server": "11.4",
     "@trpc/client": "11.4",
-    "pnpm": "10.12",
+    "pnpm": "10.13",
     "valibot": "1.1",
     "zod": "3.25",
     "prettier": "3",
