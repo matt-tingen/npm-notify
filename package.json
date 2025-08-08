@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "peerDependencies": {
     "lodash": "4.17.21",
-    "typescript": "5.8",
+    "typescript": "5.9",
     "react": "19.1",
     "@tanstack/react-form": "1.14",
     "type-fest": "4.41",
