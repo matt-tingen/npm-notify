@@ -11,7 +11,7 @@
     "@trpc/client": "11.8",
     "pnpm": "10.26",
     "valibot": "1.2",
-    "zod": "4.2",
+    "zod": "4.3",
     "prettier": "3",
     "eslint": "9",
     "@chakra-ui/react": "3",
