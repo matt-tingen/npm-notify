@@ -17,6 +17,6 @@
     "@chakra-ui/react": "3",
     "@emotion/react": "11",
     "@tanstack/react-query": "5",
-    "vite": "7"
+    "vite": "8"
   }
 }
