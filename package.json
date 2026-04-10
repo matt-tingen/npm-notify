@@ -5,7 +5,7 @@
     "lodash": "4.18.1",
     "typescript": "6.0",
     "react": "19.2",
-    "@tanstack/react-form": "1.28",
+    "@tanstack/react-form": "1.29",
     "type-fest": "5.5",
     "@trpc/server": "11.12",
     "@trpc/client": "11.12",
