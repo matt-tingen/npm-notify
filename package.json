@@ -6,7 +6,7 @@
     "typescript": "6.0",
     "react": "19.2",
     "@tanstack/react-form": "1.29",
-    "type-fest": "5.5",
+    "type-fest": "5.6",
     "@trpc/server": "11.16",
     "@trpc/client": "11.16",
     "pnpm": "10.33",
