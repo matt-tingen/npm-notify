@@ -3,6 +3,7 @@
 
   "schedule": "* 12-13 * * *",
   "timezone": "America/New_York",
+  "rebaseWhen": "behind-base-branch",
   "recreateWhen": "always",
   "prConcurrentLimit": 0,
   "prHourlyLimit": 0,
